@@ -1,0 +1,18 @@
+c:\users\jungle\documents\visual studio 2015\Projects\PictureControlByGesture\PictureControlByGesture\bin\Debug\PictureControlByGesture.exe.config
+c:\users\jungle\documents\visual studio 2015\Projects\PictureControlByGesture\PictureControlByGesture\bin\Debug\PictureControlByGesture.exe
+c:\users\jungle\documents\visual studio 2015\Projects\PictureControlByGesture\PictureControlByGesture\bin\Debug\PictureControlByGesture.pdb
+c:\users\jungle\documents\visual studio 2015\Projects\PictureControlByGesture\PictureControlByGesture\obj\Debug\PictureControlByGesture.csprojResolveAssemblyReference.cache
+c:\users\jungle\documents\visual studio 2015\Projects\PictureControlByGesture\PictureControlByGesture\obj\Debug\PictureControlByGesture.Properties.Resources.resources
+c:\users\jungle\documents\visual studio 2015\Projects\PictureControlByGesture\PictureControlByGesture\obj\Debug\PictureControlByGesture.csproj.GenerateResource.Cache
+c:\users\jungle\documents\visual studio 2015\Projects\PictureControlByGesture\PictureControlByGesture\obj\Debug\PictureControlByGesture.exe
+c:\users\jungle\documents\visual studio 2015\Projects\PictureControlByGesture\PictureControlByGesture\obj\Debug\PictureControlByGesture.pdb
+C:\Users\jungle\documents\visual studio 2015\Projects\PictureControlByGesture\PictureControlByGesture\obj\Debug\PictureControlByGesture.FormMain.resources
+E:\大四下\毕业设计\代码备份\PictureControlByGesture\PictureControlByGesture\bin\Debug\PictureControlByGesture.exe.config
+E:\大四下\毕业设计\代码备份\PictureControlByGesture\PictureControlByGesture\obj\Debug\PictureControlByGesture.exe
+E:\大四下\毕业设计\代码备份\PictureControlByGesture\PictureControlByGesture\obj\Debug\PictureControlByGesture.pdb
+E:\大四下\毕业设计\代码备份\PictureControlByGesture\PictureControlByGesture\bin\Debug\PictureControlByGesture.exe
+E:\大四下\毕业设计\代码备份\PictureControlByGesture\PictureControlByGesture\bin\Debug\PictureControlByGesture.pdb
+E:\大四下\毕业设计\代码备份\PictureControlByGesture\PictureControlByGesture\obj\Debug\PictureControlByGesture.csprojResolveAssemblyReference.cache
+E:\大四下\毕业设计\代码备份\PictureControlByGesture\PictureControlByGesture\obj\Debug\PictureControlByGesture.FormMain.resources
+E:\大四下\毕业设计\代码备份\PictureControlByGesture\PictureControlByGesture\obj\Debug\PictureControlByGesture.Properties.Resources.resources
+E:\大四下\毕业设计\代码备份\PictureControlByGesture\PictureControlByGesture\obj\Debug\PictureControlByGesture.csproj.GenerateResource.Cache
